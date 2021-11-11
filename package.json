@@ -1,0 +1,22 @@
+{
+  "name": "mail_for_cats",
+  "version": "1.0.0",
+  "description": "Котопочта",
+  "main": "index.html",
+  "scripts": {
+    "start": "browser-sync start --server --files '*.css, *.html'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bohannon-first/mail_for_cats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bohannon-first/mail_for_cats/issues"
+  },
+  "homepage": "https://github.com/Bohannon-first/mail_for_cats#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
